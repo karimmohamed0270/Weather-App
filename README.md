@@ -2,7 +2,6 @@
 
 Developed a weather application using Flutter and REST APIs to provide real-time weather updates 
 
-GitHub: https://github.com/karimmohamed0270/Weather-App
 
 Key Features:
 - Fetching real-time weather data from external APIs
